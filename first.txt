@@ -3,3 +3,5 @@ Add text sample!
 Add text git commit!
 
 Git remove!
+
+Git status
