@@ -1,3 +1,5 @@
 I am going to practice git!
 Add text sample!
 Add text git commit!
+
+Git remove!
