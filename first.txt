@@ -5,3 +5,5 @@ Add text git commit!
 Git remove!
 
 Git status
+
+Git diff
